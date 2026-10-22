@@ -1,0 +1,9 @@
+﻿  GameManager.cpp
+C:\Users\emily\Downloads\Game Engines\Game Engines\Internal\Game1\Source\GameManager.cpp(4,10): error C1083: Cannot open include file: 'GameManager.h': No such file or directory
+  Main.cpp
+C:\Users\emily\Downloads\Game Engines\Game Engines\Internal\Game1\Source\Main.cpp(12,10): error C1083: Cannot open include file: 'Tube.h': No such file or directory
+  Tube.cpp
+C:\Users\emily\Downloads\Game Engines\Game Engines\Internal\Game1\Source\Tube.cpp(3,10): error C1083: Cannot open include file: 'Tube.h': No such file or directory
+  Flappy.cpp
+C:\Users\emily\Downloads\Game Engines\Game Engines\Internal\GameEngine\Source\Flappy.cpp(3,10): error C1083: Cannot open include file: 'Flappy.h': No such file or directory
+  Generating Code...
