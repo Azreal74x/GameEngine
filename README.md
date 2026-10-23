@@ -1,6 +1,6 @@
 # **Thanks for checking out my Game Engine project!**
 
-I developed this engine using C++ and SDL to better understand how game engines work behind the scenes. My goal was to create a simple engine with reusable systems that could support different 2D games. I used the Singleton Pattern for the different managers and a shared Object class to keep the engine organized and reusable. Have a look at the additional details below.
+I developed this engine using C++ and SDL to better understand how game engines work behind the scenes. My goal was to create a simple engine with reusable systems that could support different 2D games. I used the Singleton Pattern for the different managers and a shared Object class to keep the engine organized and reusable. Have a look at additional details below.
 
 #
 
